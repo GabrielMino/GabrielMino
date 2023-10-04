@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h2 align="center">Junior BackEnd Developer</h2>
 
-- 🔭 I’m currently working on [Business Assistant BCN - Barcelona Activa](https://github.com/IT-Academy-BCN/BusinessAssistantBCN-backend)
-
 
 <h2 align ="left"></h2>Skills
 
